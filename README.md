@@ -1,4 +1,4 @@
-j<h2 align="left">Hi 👋! My name is Mario and I'm a Software Developer, from Alicante, Spain</h2>
+<h2 align="left">Hi 👋! My name is Mario and I'm a Software Developer, from Alicante(Spain)</h2>
 
 ###
 

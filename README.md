@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jelujr17/famsync/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jelujr17/jelujr17/output/snake.svg" alt="Snake animation" />
 
 ###
